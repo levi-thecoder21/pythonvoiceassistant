@@ -6,4 +6,4 @@ I used conditional statments to check various conditions.
 
 This is simple voice assistant to boost the interest towards the AI.
 
-mail me @megavannancse@gmail.com or connect with me through social medias instagram: https://www.instagram.com/megavannan_14/?igshid=YmMyMTA2M2Y%3D Linkedin https://www.linkedin.com/in/megavannan-r-572a0a241
+mail me @megavannan2114@gmail.com or connect with me through social medias instagram: https://www.instagram.com/megavannan_14/?igshid=YmMyMTA2M2Y%3D Linkedin https://www.linkedin.com/in/megavannan-r-572a0a241
