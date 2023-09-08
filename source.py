@@ -11,7 +11,7 @@ engine.setProperty('voices',voices[1].id)
 def talk(text):                  #creating a function to talk back
     engine.say(text)
     engine.runAndWait()
-def accept_command():            #creating a function to get input from the microphone
+def acceptcommand():            #creating a function to get input from the microphone
    try:
        with sr.Microphone() as source:
            print("listening..")
@@ -25,7 +25,7 @@ def accept_command():            #creating a function to get input from the micr
         pass
    return command
 def run_asst():
-    command = accept_command()
+    command = acceptcommand()
     print(command)
     if "who are you" in command:
         talk("i am a simple voice assistant to make your task easy")
