@@ -1,4 +1,4 @@
- voice assistant made with Python that uses natural language processing (NLP) and speech recognition technology to understand and respond to voice commands from users. Python provides a variety of libraries and frameworks that can be used to build such voice assistants, including SpeechRecognition, Natural Language Toolkit (NLTK), and PyAudio.
+ 
 
 voice assistant made with Python works by capturing audio input from a user through the Device microphone, processing it through the speech recognition engine to convert the audio to text, and then using NLP techniques to interpret the user's intent and respond accordingly. The assistant can perform a wide range of tasks, such as answering questions, setting reminders, , playing music, and more.
 
